@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my first post"
-date: 03-11-24
+title: "First post!"
+date: 24-03-11
 ---
-This is my first blog :)
+
