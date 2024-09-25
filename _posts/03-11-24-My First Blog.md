@@ -1,5 +1,5 @@
 ---
 title: "First Post!"
-date: 11-24-03
+date: 03-11-24
 ---
 This is my first blog :)
